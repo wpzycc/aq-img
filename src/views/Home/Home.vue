@@ -1,12 +1,11 @@
 <template>
   <section class="Home pt-4 sm:pt-6">
     <Alert class="pt-0 pb-2 sm:py-4">
-      <AlertTitle class="font-bold hidden sm:flex sm:gap-2"> <RocketIcon class="h-4 w-4 hidden sm:flex" /> Heads up!</AlertTitle>
+      <AlertTitle class="font-bold hidden sm:flex sm:gap-2"> <RocketIcon class="h-4 w-4 hidden sm:flex" /> 各位盘友好！</AlertTitle>
       <AlertDescription class="p-0 text-xs sm:text-sm">
         <p class="pt-2">无限图片储存数量，你可以上传不限数量的图片！</p>
         <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
-        <p>骤雨重山图床 是 <a class="text-slate-400" href="https://www.vvhan.com" target="_blank" title="韩小韩博客">韩小韩博客</a> 支持并维护的文件上传项目，致力于为用户提供稳定的永久存储服务。</p>
-        <p style="font-weight: bold">开源地址: <a class="text-[#0969da]" href="https://github.com/uxiaohan/ZYCS-IMG" target="_blank">ZYCS-IMG</a></p>
+        <p>AQ图床 是 <a class="text-slate-400" href="https://wpzy.cc" target="_blank" title="AQ网盘论坛">AQ网盘论坛</a> 支持并维护的文件上传项目，致力于为用户提供稳定的永久存储服务。</p>
       </AlertDescription>
     </Alert>
 
